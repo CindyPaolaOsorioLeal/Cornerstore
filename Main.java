@@ -11,6 +11,7 @@ public class Main {
         String name = "Kevin";
         System.out.print(name.toUpperCase());
         
-        
+        double num = Math.random();
+        System.out.println(Math.round(num));
     }
 }
